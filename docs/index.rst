@@ -6,6 +6,8 @@
 Welcome to The Office's documentation!
 ======================================
 
+TEST AUTO CICD
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
